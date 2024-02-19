@@ -1,0 +1,42 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.25/Modules/SelectLibraryConfigurations.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/fmt/fmt-config-version.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/fmt/fmt-config.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/fmt/fmt-targets-debug.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/fmt/fmt-targets-release.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/fmt/fmt-targets.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glew/CopyImportedTargetProperties.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glew/glew-config.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glew/glew-targets-debug.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glew/glew-targets-release.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glew/glew-targets.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glew/vcpkg-cmake-wrapper.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glfw3/glfw3Config.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
+C:/Users/DELL/vcpkg/installed/x64-windows/share/glfw3/glfw3Targets.cmake
+C:/Users/DELL/vcpkg/scripts/buildsystems/vcpkg.cmake
+E:/Programming_stuff/cpp/space_invader/CMakeLists.txt
+E:/Programming_stuff/cpp/space_invader/build/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake
+E:/Programming_stuff/cpp/space_invader/build/CMakeFiles/3.25.2/CMakeRCCompiler.cmake
+E:/Programming_stuff/cpp/space_invader/build/CMakeFiles/3.25.2/CMakeSystem.cmake
